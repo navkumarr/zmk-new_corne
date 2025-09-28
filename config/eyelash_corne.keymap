@@ -73,7 +73,7 @@
                               &mo 3  &mo 1  &mo 2                                               &kp ENTER  &kp SPACE  &kp LCMD
             >;
 
-            sensor-bindings = <&inc_dec_kp RIGHT_BRACKET LEFT_BRACKET>;
+            sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOLUME_DOWN>;
         };
 
         lower_layer {
